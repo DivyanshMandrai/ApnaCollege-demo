@@ -1,4 +1,5 @@
 # ApnaCollege-demo
 learning about GIT/GITHUB
 <br>
-Author - Divyansh Mandraisd
+Author - Divyansh Mandrai
+
